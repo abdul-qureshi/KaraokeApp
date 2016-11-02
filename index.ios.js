@@ -158,7 +158,4 @@ class KaraokeApp extends Component {
   }  
 }
 
-const styles = StyleSheet.create({
-});
-
 AppRegistry.registerComponent('KaraokeApp', () => KaraokeApp);
