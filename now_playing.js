@@ -61,7 +61,7 @@ export class NowPlaying extends Component {
           muted={this.state.muted}
           onProgress={ this.setTime.bind(this) }
           onLoad={ this.onLoad.bind(this) }
-        />  
+        />
      </View>  
     );
   }
