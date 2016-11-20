@@ -15,7 +15,7 @@ import {
 } from 'react-native';
 import Video from 'react-native-video';
 
-class NowPlaying extends Component {
+export class NowPlaying extends Component {
   constructor(props){
     super(props);
     this.state = {
